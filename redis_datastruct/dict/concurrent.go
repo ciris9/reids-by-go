@@ -1,5 +1,5 @@
 package dict
-
+/*dict*/
 import (
 	"hash/fnv"
 	"log"

@@ -1,3 +1,4 @@
+/*hash*/
 package consistentHash
 
 import (

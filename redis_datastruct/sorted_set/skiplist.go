@@ -1,5 +1,5 @@
 package sorted_set
-
+/*hskiplist*/
 import "math/rand"
 
 const maxLevel = 16

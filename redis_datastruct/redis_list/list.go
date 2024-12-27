@@ -1,5 +1,5 @@
 package redis_list
-
+/*list*/
 import (
 	"container/list"
 	"reids-by-go/utils/trans"

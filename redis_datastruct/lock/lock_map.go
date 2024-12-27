@@ -1,5 +1,5 @@
 package lock
-
+/*lock*/
 import (
 	"hash/fnv"
 	"sort"
